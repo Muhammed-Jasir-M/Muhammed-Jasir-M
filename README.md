@@ -30,15 +30,6 @@ Git, GitHub, Netlify, Vercel, Render
 
 ---
 
-## 📂 Projects
-
-Here are some of my highlighted projects. Check the [Projects section](#) for more!
-
-- **Portfolio Website** – A responsive personal site to showcase projects and skills.  
-  [Live](https://portfolio.example.com) • [Code](https://github.com/username/portfolio)
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Jasir-M&theme=tokyonight&hide_border=false&count_private=true)  
@@ -52,9 +43,9 @@ Here are some of my highlighted projects. Check the [Projects section](#) for mo
 I'm always happy to connect and collaborate!  
 Reach me via:
 
-- **Email:** yourname@example.com  
-- **LinkedIn:** [Muhammed Jasir M](https://www.linkedin.com/in/your-link/)  
-- **Portfolio:** [https://portfolio.example.com](https://portfolio.example.com)
+- **Email:** jasirmm307@gmail.com  
+- **LinkedIn:** [Muhammed Jasir M](https://www.linkedin.com/in/muhammed-jasir-m/)  
+- **Portfolio:** [My Portfolio](https://muhammed-jasir-m.vercel.app/)
 
 ---
 
