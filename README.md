@@ -1,5 +1,22 @@
 # 💫 About Me:
-👋 Hi, I’m @Muhammed-Jasir-M<br>👀 I’m a BCA student passionate about frontend development, particularly with ReactJS and Flutter.<br>🌱 I’m currently enhancing my skills in the MERN stack while diving deeper into Flutter for cross-platform app development.<br>💞️ I’m looking to collaborate on innovative frontend projects and open-source contributions.<br>😄 Pronouns: he/him<br>⚡ Fun fact: Debugging feels like solving a mystery, and I enjoy every moment of it!
+### Hey there, I'm Muhammed Jasir M 👋
+
+I'm a Frontend & Cross-Platform Mobile Developer passionate about building clean, user-focused applications using **React** and **Flutter**.
+
+I’ve recently completed my **BCA** and am currently diving into the **MERN stack** to become a full-stack developer.
+
+I enjoy turning ideas into real products and love working on projects that challenge me to grow. 
+
+I'm open to **internship** and **junior developer** roles to keep learning and contributing.
+
+---
+
+**Tech I'm working with:**
+- React, Next.js, Tailwind CSS, Bootstrap 
+- Flutter, Firebase, Dart
+- Node.js, MongoDB, Express.js
+
+Let’s connect and build something awesome!
 
 
 # 💻 Tech Stack:
