@@ -1,6 +1,7 @@
 # Hi, I'm Muhammed Jasir M! 👋
 
-I'm a **Frontend & Cross-Platform Mobile Developer** who loves building clean, user-friendly applications using **React**, **Flutter**, and other modern tools.  
+I'm a **Frontend & Cross-Platform Mobile Developer** who loves building clean, user-friendly applications using **React**, **Flutter**, and other modern tools.
+
 Recently completed my **BCA**, and now diving deep into the **MERN Stack** to level up as a **Full-Stack Developer**.
 
 ---
